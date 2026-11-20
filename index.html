@@ -1,1 +1,5 @@
-
+Kleurenpallet
+#6D0808
+#2D0000  
+#757D6F
+#EEEAD7
