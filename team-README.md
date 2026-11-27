@@ -4,7 +4,7 @@
 [Wie is de klant en wat wil die kunnen doen?]
 
 ##Hoofdissues
-- [D) Klantvraag en ontwerp](hhttps://github.com/School-acc-Lianne/zyndra/issues/10)
+- [D) Klantvraag en ontwerp](https://github.com/School-acc-Lianne/zyndra/issues/10)
 - [E) Bouw en eerste tests](https://github.com/School-acc-Lianne/zyndra/issues/11)
 - [I) Verbetering en hertests](https://github.com/School-acc-Lianne/zyndra/issues/12)
 - [M) Uitleg en samenwerking](https://github.com/School-acc-Lianne/zyndra/issues/13)
