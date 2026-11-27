@@ -1,7 +1,7 @@
-# Zyndra
+# Sitya
 
 Een softwareproject dat momenteel in ontwikkeling is.
-Namens Zyndra, ons bedrijf, worden er sites gemaakt. 
+Namens Sitya, ons bedrijf, worden er sites gemaakt. 
 Dus is het misschien ook een plan om een 'verkoop'/portfolio site te maken.
 
 ## Doel
